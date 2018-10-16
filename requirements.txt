@@ -1,0 +1,4 @@
+confluent_kafka
+influxdb
+python-dotenv
+objectpath
